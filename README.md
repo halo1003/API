@@ -19,6 +19,8 @@ Download Netbean IDE at https://netbeans.org/downloads/8.0.2/ >> Open project mr
 
 Note: Dump20190420 folder contain alot tables.
 
+Download and extract Dump20190420.rar at https://drive.google.com/drive/folders/1vV0d6cRHOY6VqXZrljqAmtiEPwrR5MXa?usp=sharing
+
 1./ Import from Dump project folder Dump20190420 (it maybe take time) MYSQL workbench.
 
 
